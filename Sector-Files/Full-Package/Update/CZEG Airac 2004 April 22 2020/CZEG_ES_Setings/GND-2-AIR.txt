@@ -1,0 +1,91 @@
+VOICE
+AG:Edmonton Radio:135.025:novoice:czeg_fss
+AG:Edmonton Radio:135.700:novoice:czeg_1_fss
+AG:Edmonton Radio:135.750:novoice:czeg_2_fss
+AG:Edmonton Radio:135.800:novoice:czeg_3_fss
+AG:Edmonton Radio:135.120:novoice:czeg_4_fss
+AG:Edmonton Mandatory:122.200:novoice:czeg_fss
+AG:Edmonton Centre:135.750:novoice:czeg_ctr
+AG:Edmonton High Sector:132.900:novoice:czeg_h_ctr
+AG:Edmonton Low Sector:132.850:novoice:czeg_l_ctr
+AG:Edmonton North Low Sector:134.670:novoice:czeg_n_ctr
+AG:Edmonton Enroute Low Sector:132.050:novoice:czeg_e_ctr
+AG:Edmonton Alberta High Sector:135.120:novoice:czeg_a_ctr
+AG:Edmonton Polar Sector:135.025:novoice:czeg_p_ctr
+AG:Springbank ATIS:127.900:novoice:cybw_atis
+AG:Springbank Ground:121.800:novoice:cybw_gnd
+AG:Springbank Tower:118.200:novoice:cybw_twr
+AG:Calgary ATIS:128.220:novoice:cyyc_atis
+AG:Calgary Clearance:120.820:novoice:cyyc_del
+AG:Calgary Ground:121.900:novoice:cyyc_gnd
+AG:Calgary Apron:121.300:novoice:cyyc_a_gnd
+AG:Calgary Tower:118.400:novoice:cyyc_twr
+AG:Calgary Arrival:125.900:novoice:cyyc_app
+AG:Calgary Departure:119.800:novoice:cyyc_dep
+AG:Calgary Terminal:119.400:novoice:cyyc_tml
+AG:Edmonton ATIS:128.000:novoice:cyeg_atis
+AG:Edmonton Clearance:124.100:novoice:cyeg_del
+AG:Edmonton Ground:121.700:novoice:cyeg_gnd
+AG:Edmonton Tower:118.300:novoice:cyeg_twr
+AG:Edmonton Arrival:120.500:novoice:cyeg_app
+AG:Edmonton Departure:133.650:novoice:cyeg_dep
+AG:Edmonton Terminal:119.500:novoice:cyeg_tml
+AG:Cold Lake Clearance:120.600:novoice:cyod_del
+AG:Cold Lake Ground:121.900:novoice:cyod_gnd
+AG:Cold Lake Tower:126.200:novoice:cyod_twr
+AG:Cold Lake Terminal:124.500:novoice:cyod_app
+AG:Fort McMurray ATIS:128.500:novoice:cymm_atis
+AG:Fort McMurray Ground:121.900:novoice:cymm_gnd
+AG:Fort McMurray Tower:118.100:novoice:cymm_twr
+AG:Villeneuve ATIS:128.350:novoice:czvl_atis
+AG:Villeneuve Tower:120.000:novoice:czvl_twr
+AG:Villeneuve Ground:120.800:novoice:czvl_gnd
+AG:Whitehorse ATIS:125.250:novoice:cyxy_atis
+AG:Whitehorse Ground:121.900:novoice:cyxy_gnd
+AG:Whitehorse Tower:118.300:novoice:cyxy_twr
+AG:Yellowknife Ground:121.900:novoice:cyzf_gnd
+AG:Yellowknife Tower:118.500:novoice:cyzf_twr
+AG:Yellowknife ATIS:128.400:novoice:cyzf_atis
+AG:Winnipeg Centre:124.000:novoice:czwg_ctr
+AG:Winnipeg Broadview Centre:134.170:novoice:zwg_br_ctr
+AG:Winnipeg Falcon Lake Centre:132.200:novoice:zwg_fl_ctr
+AG:Winnipeg LaRonge Centre:135.620:novoice:zwg_vc_ctr
+AG:Winnipeg North Lower Centre:133.100:novoice:zwg_nl_ctr
+AG:Winnipeg Tower:118.300:novoice:cywg_twr
+AG:Winnipeg Approach:119.500:novoice:cywg_app
+AG:Thunder Bay Tower:119.900:novoice:cyqt_twr
+AG:Thunder Bay Approach:119.200:novoice:cyqt_app
+AG:Regina Tower:118.600:novoice:cyqr_twr
+AG:Regina Approach:120.100:novoice:cyqr_app
+AG:Saskatoon Tower:118.300:novoice:cyxe_twr
+AG:Saskatoon Approach:119.900:novoice:cyxe_app
+AG:Montreal High Centre:134.400:novoice:zul_h_ctr
+AG:Montreal North Centre:125.900:novoice:zul_n_ctr
+AG:Montreal West Centre:128.770:novoice:zul_w_ctr
+AG:Montreal East Centre:132.350:novoice:zul_e_ctr
+AG:Vancouver Centre:133.700:novoice:czvr_ctr
+AG:Vancouver North Centre:134.400:novoice:czvr_ctr
+AG:Vancouver East Centre:125.950:novoice:czvr_ctr
+AG:Vancouver West Centre:132.900:novoice:czvr_ctr
+AG:Vancouver South Centre:135.000:novoice:czvr_ctr
+AG:Pacific Radio:126.700:novoice:czvr_ctr
+AG:Vancouver Arrival:128.600:novoice:cyvr_app
+AG:Vancouver Tower:118.700:novoice:cyvr_twr
+AG:Victoria Arrival:133.850:novoice:cyyj_app
+AG:Victoria Tower:119.700:novoice:cyyj_twr
+AG:Salt Lake North Centre:128.050:novoice:zlc_n_ctr
+AG:Salt Lake South Centre:133.600:novoice:zlc_s_ctr
+AG:Salt Lake Events Centre:128.550:novoice:zlc_e_ctr
+AG:Salt Lake Events2 Centre:127.750:novoice:zlc_e2_ctr
+AG:Seattle Centre:124.200:novoice:czse_ctr
+AG:Seattle North Centre:120.300:novoice:czse_0n_ctr
+AG:Seattle South Centre:126.100:novoice:czse_0s_ctr
+AG:Seattle NW Sector:126.600:novoice:czse_0a_ctr
+AG:Seattle Mid Sector:134.650:novoice:czse_0b_ctr
+AG:Seattle NE Sector:128.450:novoice:czse_0c_ctr
+AG:Seattle South Sector:135.150:novoice:kzse_0d_ctr
+AG:Anchorage Centre:132.300:novoice:zan_20_ctr
+AG:Anchorage Centre:133.670:novoice:zan_21_ctr
+AG:Gander Oceanic:131.700:novoice:canada.voice.vatsim.net
+AG:Cold Lake ATIS:118.550:novoice:cyod_atis
+END
