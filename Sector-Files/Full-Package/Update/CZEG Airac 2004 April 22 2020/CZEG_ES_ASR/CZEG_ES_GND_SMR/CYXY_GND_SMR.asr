@@ -1,0 +1,80 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Tony\Documents\EuroScope\CANscope\CZEG\CZEG_ES_Sectors\CZEG_FIR.sct
+SECTORTITLE:CZEG_FIR.sct
+ARTCC low boundary:CYXY_TA(B/E):
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Ramp\I:freetext
+Free Text:CYXY Ramp\II:freetext
+Free Text:CYXY Taxi\A:freetext
+Free Text:CYXY Taxi\A:freetext
+Free Text:CYXY Taxi\D:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\E:freetext
+Free Text:CYXY Taxi\F:freetext
+Free Text:CYXY Taxi\G:freetext
+Free Text:CYXY_MSA\82:freetext
+Free Text:CYXY_MSA\82:freetext
+Free Text:CYXY_MSA\85:freetext
+Free Text:CYXY_MSA\85:freetext
+Geo:CYXY:
+NDBs:JB:frequency
+NDBs:JB:name
+NDBs:JB:symbol
+NDBs:ZXY:name
+NDBs:ZXY:symbol
+Regions:CYXY:polygon
+Regions:YXY_Apron:polygon
+Regions:YXY_Grass:polygon
+Regions:YXY_Runway:polygon
+Regions:YXY_Taxiway:polygon
+Regions:YXY_Terminal:polygon
+Runways:CYXY Whitehorse 01-19:name
+Runways:CYXY Whitehorse 14L-32R:name
+Runways:CYXY Whitehorse 14R-32L:name
+VORs:YXY:name
+VORs:YXY:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:2200
+ABOVE:15000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:60.692062:-135.096325:60.727781:-135.037603
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYXY
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:600
+PLUGIN:vSMR:SRW1BottomRightY:500
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:200
+PLUGIN:vSMR:SRW1TopLeftY:200
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200
