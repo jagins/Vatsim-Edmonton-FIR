@@ -7,7 +7,7 @@ These files are not meant to be used in a real world scenario. These files are p
 
 Edmonton Controllers will find the sectorfiles for Euroscope under Sector-Files -> Airac20XX.
 
-Be aware that Edmonton FIR only supports Euroscope version 3.2.1.23 and if you do use an updated version of Euroscope the controller does so at their own risk.
+It is important that all CZEG controllers are on the same version of Euroscope. The beta version 3.2.1.23 of Euroscope is the only version the Edmonton FIR supports. More recent versions are not fully vetted with our plugins and sector files.
 
 ## Sector File Installation Process
 
